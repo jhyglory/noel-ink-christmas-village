@@ -1,0 +1,17 @@
+{
+  "name": "tree-pick-christmas-village",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "three": "^0.187.0",
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
